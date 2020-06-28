@@ -1,0 +1,78 @@
+h1 {
+  font-family: Arial, sans-serif;
+}
+h1.geo {
+  font-family: Comic Sans MS;
+  border: 3px inset orange;
+  text-align: center;
+  background-color: #FF9640;
+}
+img.html {
+  display: block;
+    margin-left: auto;
+    margin-right:auto;
+    border: 4px groove black;
+}
+
+body {
+      font-family: monospace;
+      font-size: 13px;
+}
+p.end {
+  text-align: center;
+  line-height: 100px;
+  font-weight: 600;
+  font-size: x-large;
+  border-bottom: 3px solid  #409ad6;
+}
+.end2 {
+  text-align: center;
+  line-height: 100px;
+  font-weight: 600;
+  font-size: x-large;
+  border-bottom: 3px solid grey;
+}
+h1.middle {
+  font-family: cursive;
+  text-align: center;
+}
+h1.middle2 {
+  border-top: 3px ridge #409ad6;
+  text-align: center;
+}
+li {
+  font-family: monospace;
+  font-size: 17px;
+  font-weight: 100;
+  text-decoration: dotted underline;
+}
+p.opacity {
+  color: black;
+  opacity: 0.3;
+  text-align: left;
+}
+p.border {
+  border-bottom: 3px ridge  #409ad6;
+    text-weight: bold;
+    color: black;
+    text-align: center;
+    line-height: 50px;
+}
+p.noborder {
+  text-align: center;
+  line-height: 100px;
+  font-weight: 600;
+  font-size: x-large;
+}
+p.center {
+  text-align: center;
+  font-size: 25px;
+   line-height: normal;
+}
+ul {
+  text-align: center;
+  list-style-position: inside; /* Передвигает точки к тексту*/
+}
+.site-footer {
+  line-height: small;
+}
